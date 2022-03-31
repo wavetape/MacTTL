@@ -14,7 +14,7 @@
     MacTTL - Free and open source software for change TTL on your macOS device
     <br>
     <br>
-    <a href="https://github.com/wavetape/MacTTL/releases/latest/download/MacTTL.1.0.dmg">Download Latest Build (Apple Silicon + x86)</a>
+    <a href="https://github.com/wavetape/MacTTL/releases/latest/download/MacTTL.dmg">Download Latest Build (Apple Silicon + x86)</a>
   </a>
 </h5>
 
