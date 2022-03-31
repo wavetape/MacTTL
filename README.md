@@ -7,11 +7,16 @@
 </h1>
 
 <h5 align="center">
-    <br />
+    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wavetape/MacTTL/total?style=for-the-badge">
+    <a href="https://github.com/wavetape/MacTTL/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/wavetape/MacTTL?style=for-the-badge"></a>
+    <br>
+    <br>
     MacTTL - Free and open source software for change TTL on your macOS device
+    <br>
+    <br>
+    <a href="https://github.com/wavetape/MacTTL/releases/latest/download/MacTTL.dmg">Download Latest Build (Apple Silicon + x86)</a>
   </a>
 </h5>
-
 
 ## Screenshots
 
