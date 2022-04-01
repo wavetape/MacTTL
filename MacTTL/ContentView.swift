@@ -15,7 +15,7 @@ struct ContentView: View {
             Text("MacTTL").bold().font(.largeTitle)
             HStack(spacing: 0) {
                 Text("Current TTL: ")
-                Text(currentTTL).bold().lineLimit(1)
+                Text(currentTTL).bold()
             }
             Button("Change to 64") {
                 ttlChange(ttl: "64")

@@ -19,7 +19,9 @@ public func getCurrentTTL() -> String {
     
     let data = pipe.fileHandleForReading.readDataToEndOfFile()
     let preoutput = String(data: data, encoding: .utf8)!
-    let output = preoutput.components(separatedBy: .whitespaces)[1]
+    let output = preoutput.components(separatedBy: .whitespacesAndNewlines)[1]
+    
+    print(data)
     
     return output
 }
